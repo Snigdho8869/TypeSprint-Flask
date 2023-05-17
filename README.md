@@ -1,4 +1,4 @@
-# TypeSprint
+# TypeSprint - Typing Speed Checker
 TypeSprint is a typing speed checker application built using Flask, HTML, CSS, and JavaScript. It provides real-time feedback on accuracy and words per minute, with a countdown timer and timer for time elapsed. Users can also track their word count and switch between multiple paragraphs by clicking a button.
 
 # Features
