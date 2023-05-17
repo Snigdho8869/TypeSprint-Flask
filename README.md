@@ -9,6 +9,13 @@ TypeSprint is a typing speed checker application built using Flask, HTML, CSS, a
 - Support for multiple paragraphs
 - Easy paragraph change by clicking a button
 
+# Technologies Used
+TypeSprint is built using the following technologies:
+- Flask
+- HTML
+- CSS
+- JavaScript
+
 # How to Use
 1. Select a paragraph from the provided options or click the "Change Paragraph" button for a new one.
 2. Start typing in the input area provided.
